@@ -34,3 +34,15 @@ git config --global user.email "you@example.com"
 
 10. git GUI 환경 설정
     https://www.sourcetreeapp.com/ sourcetree 다운로드
+
+11. 다른 사람이 PR을 통해서 코드를 업데이트했거나, 아니면 Github를 통해서 commit했을 때(Github를 통해서도 간단한 commit을 할 수 있습니다) 그 내용을 클라이언트로 내려받는 명령어
+    git pull origin master
+    
+12. 깃허브의 유저이름과 비밀번호를 쳐야하는 경우, 매번 비밀번호를 치기 귀찮다면(파일로 저장되는만큼 보안에 취약)
+    git config --global credential.helper 'store --file 경로'
+
+13. 브랜치 만들기
+    git branch name
+
+14. 브랜치 이동하기
+    git checkout name
