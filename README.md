@@ -22,3 +22,6 @@ git config --global user.email "you@example.com"
 
 7. 다른 사람이 만든 저장소 받아오기
     git clone https://github.com/ID/Name.git
+
+8. 다른 사람과 협업 중 조치사항
+    project -> settings -> Manage access -> Invite a collaborator
