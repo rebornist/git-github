@@ -46,3 +46,10 @@ git config --global user.email "you@example.com"
 
 14. 브랜치 이동하기
     git checkout name
+
+15. 브랜치 작업 후 main에 병합하기
+    git chechout main
+    git merge name
+
+16. 충돌해결
+    git conflict main
