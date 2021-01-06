@@ -25,3 +25,6 @@ git config --global user.email "you@example.com"
 
 8. 다른 사람과 협업 중 조치사항
     project -> settings -> Manage access -> Invite a collaborator
+
+9. 다른 사람과의 협업 연결 끊기
+    git rm -r --cached removedDir.
