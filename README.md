@@ -21,4 +21,4 @@ git config --global user.email "you@example.com"
     git push -u origin main
 
 7. 다른 사람이 만든 저장소 받아오기
-    git clone https://github.com/id/name.git
+    git clone https://github.com/ID/Name.git
