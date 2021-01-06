@@ -1,5 +1,7 @@
 # Git & Github 사용법
 
+git config --global user.email "you@example.com"
+
 1. 원하는 폴더에서 git을 초기화할 때 git init 실행
 
 2. git 초기화를 하면 .git(숨김파일) 파일생성
