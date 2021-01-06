@@ -50,9 +50,6 @@ git config --global user.email "you@example.com"
 15. 브랜치 작업 후 main에 병합하기
     git chechout main
     git merge name
-<<<<<<< HEAD
-=======
 
 16. 충돌해결
     git conflict main
->>>>>>> 6532e0576498f4877f45356cec4195e4f53369e9
